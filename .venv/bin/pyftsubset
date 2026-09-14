@@ -1,0 +1,6 @@
+#!/home/hilal/kuliah/DM/Modul-DM-RKA/.venv/bin/python
+import sys
+from fontTools.subset import main
+if __name__ == '__main__':
+    sys.argv[0] = sys.argv[0].removesuffix('.exe')
+    sys.exit(main())
