@@ -1,2 +1,4 @@
 .vscode/
 .venv/
+# Dataset besar, simpan lokal saja
+tugas_ensemble/creditcard.csv
