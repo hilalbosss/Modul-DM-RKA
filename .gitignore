@@ -2,3 +2,4 @@
 .venv/
 # Dataset besar, simpan lokal saja
 tugas_ensemble/creditcard.csv
+tugas_sequential_pattern/OnlineRetail.xlsx
